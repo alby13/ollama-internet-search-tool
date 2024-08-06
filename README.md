@@ -46,3 +46,7 @@ run
 PLEASE NOTE: You must modify the model to match with the model you have downloaded in Ollama. Currently the model is set to llama3.1 which you can edit the single quotes in this part: <code>model='llama3.1'</code>
 
 You may edit what you are searching for in this part: <code>query = "japanese garden in los angeles"</code>
+
+# Example Output:
+
+<img src="https://github.com/alby13/ollama-internet-search-tool/blob/main/search-results.png">
